@@ -1,3 +1,4 @@
+使用各种方法来管理flutter的状态，包括redux,rxdart,scopemodel
 Welcome to the companion repository to the Google I/O talk by
 @mjohnsullivan and @filiph called [Build reactive mobile apps
 with Flutter][session].
